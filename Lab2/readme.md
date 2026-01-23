@@ -1,9 +1,9 @@
-# Công nghệ sử dụng#
+# Công nghệ sử dụng
 - Ngôn ngữ: Python 3
 - **Thư viện chính**:
   - NumPy (np) – mảng đa chiều, indexing, slicing, boolean masking, tạo dữ liệu giả lập
 - Môi trường: Jupyter Notebook / JupyterLab
-# Cách hoạt động chính của code#
+# Cách hoạt động chính của code
 
 1. Tạo & chuyển đổi mảng NumPy 
    - Từ list Python → np.array()  
