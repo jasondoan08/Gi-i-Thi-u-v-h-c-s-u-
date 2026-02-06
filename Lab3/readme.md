@@ -14,7 +14,6 @@ Notebook bao gồm:
 - Tạo Series từ list, array, dictionary, scalar
 - Indexing, slicing, masking, fancy indexing
 - Tạo DataFrame nhiều cách (dict, list of dict, numpy array…)
-- Các thuộc tính: `.values`, `.index`, `.columns`
 - Broadcasting và alignment
 - GroupBy: sum, mean, median, aggregate, filter, transform, apply
 - Xử lý missing data, merge DataFrame
